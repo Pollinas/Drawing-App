@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/48781/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable-v24/pallet_pressed.xml" value="0.294" />
         <entry key="..\:/Users/48781/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.294" />
         <entry key="..\:/Users/48781/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/large.xml" value="0.294" />
         <entry key="..\:/Users/48781/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/medium.xml" value="0.294" />
+        <entry key="..\:/Users/48781/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/pallet_normal.xml" value="0.3425" />
         <entry key="..\:/Users/48781/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/small.xml" value="0.3415" />
         <entry key="..\:/Users/48781/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.31927083333333334" />
         <entry key="..\:/Users/48781/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/dialog_brush_size.xml" value="0.33541666666666664" />
